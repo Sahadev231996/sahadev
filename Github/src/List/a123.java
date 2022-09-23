@@ -9,6 +9,8 @@ public class a123 {
 		System.out.println("sjdskdfjosdfjdjfgdgj");
 		
 		System.out.println("hiiiiiiiiiiiii");
+		System.out.println("hiiii hellow ");
+		
 	}
 
 }
